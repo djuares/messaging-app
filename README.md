@@ -1,5 +1,7 @@
 # Chat
 
+Messaging app with individual and group chats, featuring user status, notifications, and conversation history.
+
 To start your Phoenix server:
 
 * Run `mix setup` to install and setup dependencies
